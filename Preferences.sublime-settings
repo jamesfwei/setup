@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Dracula Color Scheme/Dracula.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 14,
+	"rulers":
+	[
+		80
+	],
+	"scroll_past_end": true,
+	"theme": "Default.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"translate_tabs_to_spaces": true,
+}
+
